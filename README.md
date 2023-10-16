@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently doing project on Token Stacking Dapp<br>🌱 I am currently working as a blockchain developer, creating Web2 and Web3 Projects<br>💫 My recent project was Voting Dapp
+🔭 I am currently doing project on Token Stacking Dapp<br>🌱 I am currently working as a blockchain developer, creating Web2 and Web3 Projects<br>💫 My recent project was NFT MARKETPLACE
 
 
 ## 🌐 Socials:
